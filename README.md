@@ -1,16 +1,22 @@
-### Hi there 👋
+<div id="header" align="center">
+	<h1>Hi there, I'm Aleksandr</h1>
+	<h3>iOS Developer from Moscow</h3>
+</div>
 
-<!--
-**aleksandrnskn/aleksandrnskn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,cpp,html,css,figma,firebase,swift,linux,ps,postman,py,vscode&theme=light" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="summary" align="center">
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleksandrnskn&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aleksandrnskn&theme=github_dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aleksandrnskn&theme=github_dark"/>
+</div>
