@@ -11,7 +11,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,html,css,figma,firebase,swift,linux,ps,postman,py,vscode&theme=light" />
+    <img src="https://skillicons.dev/icons?i=swift,py,cpp,html,css&theme=light" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,figma,firebase,linux,ps,postman,vscode&theme=light" />
   </a>
 </p>
 
